@@ -1,0 +1,11 @@
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\bin\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.deps.json
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\bin\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.runtimeconfig.json
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\bin\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.runtimeconfig.dev.json
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\bin\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.dll
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\bin\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.pdb
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\obj\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.csprojResolveAssemblyReference.cache
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\obj\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\obj\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.AssemblyInfoInputs.cache
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\obj\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.AssemblyInfo.cs
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\obj\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.dll
+C:\Users\Rosa\Documents\Visual Studio 2017\Projects\dsASPCWebbusiness\dsASPCWebbusiness\obj\Debug\netcoreapp2.0\dsASPCWebbusiness.Web.pdb
